@@ -11,3 +11,5 @@ console.log(number.length);
 console.log(number);
 number[0]=100; //it's change because it's mutable datatype
 console.log(number);
+let thana=new String('Netrokuna');
+console.log(typeof(thana));

@@ -16,5 +16,6 @@ let student={
 // console.log(student);
 const key=Object.keys(student);
 console.log(key);
-const values=Object.values(student);
-console.log (values);
+// const values=Object.values(student);
+// console.log (values);
+

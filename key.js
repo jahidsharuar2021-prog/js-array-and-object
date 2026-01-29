@@ -11,6 +11,10 @@ let student={
 // console.log(student);
 // console.log(student.institute.position);
 
-student.institute.scname='Jahangirpur';
-delete student.institute.position;
-console.log(student);
+// student.institute.scname='Jahangirpur';
+// delete student.institute.position;
+// console.log(student);
+const key=Object.keys(student);
+console.log(key);
+const values=Object.values(student);
+console.log (values);

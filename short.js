@@ -1,0 +1,11 @@
+// const name=['jahid','ashik','rofik','salim'];
+// const short=name.sort();
+// console.log(short);
+// const number=[5,2,6,7,8];
+//  const shorting=number.sort();
+//  console.log(shorting);
+ const num=[15,12,66,17,8];
+ const assending=num.sort(function(a,b){return a-b});
+ console.log(assending);
+ const desending=num.sort(function(a,b){return b-a});
+ console.log(desending);
